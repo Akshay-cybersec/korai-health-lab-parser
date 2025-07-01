@@ -92,8 +92,11 @@ npm run dev
 Your app will now be running at:
 http://localhost:3000
 
+```
+
 ## 👤 Author
 
-**Akshay Jadhav**  
-📫 [LinkedIn](https://www.linkedin.com/in/akshaycybersec)  
-🌐 [Portfolio](https://portfolio-akshays-projects-fbd94408.vercel.app) 
+- **Name**: Akshay Jadhav
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akshaycybersec)
+- 🌐 [Portfolio](https://portfolio-akshays-projects-fbd94408.vercel.app)
+- 📧 akshayj2305@gmail.com
