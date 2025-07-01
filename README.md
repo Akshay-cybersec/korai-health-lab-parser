@@ -8,7 +8,7 @@ A simple web app that allows users to upload PDF/image lab reports and view heal
 
 ## ✅ Features
 
-- Upload lab reports (PDF or image)
+- Upload lab reports (PDF)
 - Extract text using OCR (Tesseract)
 - Parse parameters, values, units, and reference ranges
 - Highlight abnormal values (e.g., outside range)
@@ -35,6 +35,12 @@ A simple web app that allows users to upload PDF/image lab reports and view heal
 - Poppler (required by `pdf2image` for PDF rendering)
 
 ---
+🎥 Demo Video
+
+
+https://github.com/user-attachments/assets/8290e8b2-051d-4b9e-83e3-bb3757454aa2
+
+
 
 ## 🛠️ Steps to Run the Project Locally
 
