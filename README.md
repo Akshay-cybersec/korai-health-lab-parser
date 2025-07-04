@@ -1,4 +1,4 @@
-# 🧪 Korai Health Lab Report Parser
+# 🧪 Lab Report Parser
 
 A simple web app that allows users to upload PDF/image lab reports and view health parameters in a clean, interactive format — with trends, charts, and basic insights.
 
@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/8290e8b2-051d-4b9e-83e3-bb3757454aa2
 
 ```bash
 git clone https://github.com/Akshay-cybersec/korai-health-lab-parser.git
-cd korai-health-lab-parser
+cd Lab-report-parser
 
 -Run the Backend (FastAPI + OCR)
 Open terminal and go to the backend folder:
